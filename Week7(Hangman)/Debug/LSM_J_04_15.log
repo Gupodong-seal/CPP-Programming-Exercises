@@ -1,0 +1,4 @@
+﻿  HangmanGame.cpp
+C:\Users\p3302\source\repos\LSM_J_04_15\Hangman.h(43,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\p3302\source\repos\LSM_J_04_15\HangmanGame.cpp(3,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  LSM_J_04_15.vcxproj -> C:\Users\p3302\source\repos\LSM_J_04_15\Debug\LSM_J_04_15.exe
